@@ -1,0 +1,9 @@
+# all dependencies from requirements.txt - pip install -r requirements.txt
+
+SPARQLWrapper
+rdflib
+transformers
+torch
+datasets
+nltk
+python-dotenv

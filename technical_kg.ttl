@@ -1,0 +1,6 @@
+@prefix ns1: <http://example.org/> .
+
+ns1:machine_learning ns1:translated_as ns1:машинне_навчання .
+
+ns1:neural_network ns1:translated_as ns1:нейронні_мережі .
+
